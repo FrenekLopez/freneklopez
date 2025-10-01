@@ -1,11 +1,20 @@
 ### Hi, I'm Eric Frenek👋🧑‍💻
   
 
-**FrenekLopez/freneklopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Go (Golang)
 - 📫 How to reach me eric.frenek.lr@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/TU_USUARIO/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://twitter.com/TU_USUARIO">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png"/>
+  </a>
+  <a href="https://facebook.com/TU_USUARIO">
+    <img src="https://img.icons8.com/color/48/000000/facebook.png"/>
+  </a>
+</p>
 
   
