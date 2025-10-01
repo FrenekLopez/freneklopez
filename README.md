@@ -1,4 +1,4 @@
-### Hi, I'm Eric Frenek👋🧑‍💻
+Hi, I'm Eric Frenek👋🧑‍💻
   
 A passionate backend developer from Tijuana, Mexico
 
