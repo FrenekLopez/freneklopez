@@ -9,13 +9,15 @@
   <a href="https://www.facebook.com/eric.lopez.946660">
     <img src="https://img.icons8.com/color/48/000000/facebook.png"/>
   </a>
-   <a href="https://x.com/LrFrenek">
+  <a href="https://x.com/LrFrenek">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" alt="X" width="40" height="40" style="background-color:#000; border-radius:8px;"/>
   </a>
   <a href="https://www.linkedin.com/in/TU_USUARIO/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
 </p>
+
+
 
 
   
