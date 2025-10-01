@@ -1,6 +1,6 @@
 ### Hi, I'm Eric Frenek👋🧑‍💻
   
-
+A passionate backend developer from Tijuana, Mexico
 
 
 - 🌱 I’m currently learning Go (Golang)
