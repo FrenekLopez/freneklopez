@@ -5,17 +5,8 @@ A passionate backend developer from Tijuana, Mexico
 
 - 🌱 I’m currently learning Go (Golang)
 - 📫 How to reach me eric.frenek.lr@gmail.com
-<p align="left">
+
  
-
-<h3 align="center">🌐 ### Hi, I'm Eric Frenek👋🧑‍💻
-  
-A passionate backend developer from Tijuana, Mexico
-
-
-- 🌱 I’m currently learning Go (Golang)
-- 📫 How to reach me eric.frenek.lr@gmail.com
-<p align="left"></h3>
 <h3 align="center">🌐 Connect with me</h3>
 
 <p align="center">
