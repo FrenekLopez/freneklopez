@@ -13,7 +13,11 @@ A passionate backend developer from Tijuana, Mexico, specializing in **Serverles
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
 # ☁️ Cloud & AWS Ecosystem:
-<img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/>
+![AWS CDK](https://shields.io)
+![AWS Lambda](https://shields.io)
+![Amazon API Gateway](https://shields.io)
+![Amazon DynamoDB](https://shields.io)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=freneklopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
