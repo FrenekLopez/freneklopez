@@ -13,10 +13,7 @@ A passionate backend developer from Tijuana, Mexico, specializing in **Serverles
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
 # ☁️ Cloud & AWS Ecosystem:
-![AWS CDK](https://shields.io)
-![AWS Lambda](https://shields.io)
-![Amazon API Gateway](https://shields.io)
-![Amazon DynamoDB](https://shields.io)
+![AWS CDK](https://shields.io) ![AWS Lambda](https://shields.io) ![Amazon API Gateway](https://shields.io) ![Amazon DynamoDB](https://shields.io)
 
 
 # 📊 GitHub Stats:
