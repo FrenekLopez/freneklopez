@@ -1,1 +1,34 @@
+name: Update GitHub Statistics
 
+on:
+  schedule:
+    # Runs every day at midnight (UTC time)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # This trigger allows you to run the workflow manually with a button
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: 🔄 Download Statistics (SVGs)
+        run: |
+          # Downloads the statistics and saves them as local .svg files
+          curl -f -o stats.svg "https://github-readme-stats.vercel.app/api?username=freneklopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
+          curl -f -o streak.svg "https://nirzak-streak-stats.vercel.app/?user=freneklopez&theme=dark&hide_border=false"
+          curl -f -o langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=freneklopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+
+      - name: 🚀 Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions"
+
+          git add stats.svg streak.svg langs.svg
+
+          # Only commits if there are actual updates in the files
+          git commit -m "chore: update daily GitHub statistics [skip ci]" || echo "No changes to commit"
+
+          git push
