@@ -1,34 +1,58 @@
-Hi, I'm Eric Frenek👋🧑‍💻
-  
-A passionate backend developer from Tijuana, Mexico, specializing in **Serverless architectures and Cloud technologies**.
+# Hi, I'm Eric Frenek Rosales 👋
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eric.lopez.946660) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erik.frenek.lr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-lopez-650196348) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@eric28403) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LrFrenek) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eric.frenek.lr@gmail.com) 
-
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-
-# ☁️ Cloud & AWS Ecosystem:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![AWS Cognito](https://img.shields.io/badge/Amazon%20Cognito-DD344C?style=for-the-badge&logo=amazon-cognito&logoColor=white)
-
-<p align="center">
-  <img src="github-metrics.svg" alt="Mis Estadísticas de GitHub" width="100%" />
-</p>
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=freneklopez&limit=5&theme=dark&combine_all_yearly_contributions=true)
+A passionate **Backend Developer** and **Cloud Systems Engineer** specialized in building scalable serverless architectures, robust APIs, and automated cloud infrastructure. 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=freneklopez&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🛠️ Core Tech Stack & Ecosystem
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Languages & Backend Tools</strong><br/><br/>
+      <img src="https://shields.io" alt="Go" />
+      <img src="https://shields.io" alt="Node.js" />
+      <img src="https://shields.io" alt="PostgreSQL" />
+      <img src="https://shields.io" alt="Docker" />
+      <img src="https://shields.io" alt="GitHub Actions" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>AWS Cloud Architecture</strong><br/><br/>
+      <img src="https://shields.io" alt="AWS" />
+      <img src="https://shields.io" alt="AWS Lambda" />
+      <img src="https://shields.io" alt="DynamoDB" />
+      <img src="https://shields.io" alt="Amazon ECS" />
+      <img src="https://shields.io" alt="AWS Cognito" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📂 Featured Project
+
+#### 🚀 [aws-cloud-go](https://github.com)
+A production-ready Infrastructure as Code (IaC) repository built in **Go** to deploy and manage a self-hosted cloud architecture on AWS using **AWS CDK**.
+* **Key Features:** Serverless optimization, automated deployment pipelines, and secure cloud identity management.
+* **Tech Stack:** Go, AWS CDK, AWS Lambda, CloudFormation, DynamoDB.
+
+---
+
+### 📊 GitHub Automation & Metrics
+
+<p align="center">
+  <img src="github-metrics.svg" alt="Eric's GitHub Metrics" width="100%" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ericfrenekir@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
