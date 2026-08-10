@@ -10,23 +10,38 @@ permissions:
   contents: write
 
 jobs:
-  update-stats:
-    runs-on: ubuntu-latest
-    steps:
-      - name: 📥 Checkout del repositorio
-        uses: actions/checkout@v4 # Actualizado a v4
+   steps:
+      # 1. Descargamos el código de tu repositorio a la máquina virtual
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: 🔄 Descargar estadísticas (SVGs)
-        run: |
-          # Usamos un User-Agent (-A) para simular que somos un navegador real y evitar el bloqueo
-          curl -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" -f -o stats.svg "https://github-readme-stats.vercel.app/api?username=freneklopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
-          curl -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" -f -o streak.svg "https://nirzak-streak-stats.vercel.app/?user=freneklopez&theme=dark&hide_border=false"
-          curl -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" -f -o langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=freneklopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+      # 2. Corremos la librería oficial local que genera tu nueva gráfica
+      - name: Generar Métricas del Perfil
+        uses: lowlighter/metrics@latest
+        with:
+          # Llamamos al secreto que acabas de guardar con éxito
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Tu nombre de usuario de GitHub
+          user: freneklopez
+          
+          # Estilo clásico y limpio
+          template: classic
+          
+          # Datos que se van a procesar e incluir en el diseño
+          base: header, activity, community, repositories, metadata
+          
+          # Tu zona horaria para que calcule los datos con precisión
+          config_timezone: America/Tijuana
+          
+          # Nombre del archivo SVG que va a generar en tu repositorio
+          filename: github-metrics.svg
 
-      - name: 🚀 Commit y Push de los cambios
+      # 3. Guardamos el archivo generado directamente en tu repositorio
+      - name: Guardar cambios en el repositorio
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Actions"
-          git add stats.svg streak.svg langs.svg
-          git commit -m "chore: actualizar estadísticas diarias de GitHub [skip ci]" || echo "No hay cambios para hacer commit"
+          git config --local user.name "GitHub Action Bot"
+          git add github-metrics.svg
+          git diff-index --quiet HEAD || git commit -m "docs: Actualizar métricas del perfil automáticamente [skip ci]"
           git push
