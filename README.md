@@ -19,10 +19,10 @@ A passionate backend developer from Tijuana, Mexico, specializing in **Serverles
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![AWS Cognito](https://img.shields.io/badge/Amazon%20Cognito-DD344C?style=for-the-badge&logo=amazon-cognito&logoColor=white)
 
-# 📊 GitHub Stats:
-![Estadísticas de GitHub](https://TU-NUEVA-URL/api?username=freneklopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Racha de GitHub](https://nirzak-streak-stats.vercel.app/?user=freneklopez&theme=dark&hide_border=false)<br/>
-![Lenguajes Top](https://TU-NUEVA-URL/api/top-langs/?username=freneklopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="github-metrics.svg" alt="Mis Estadísticas de GitHub" width="100%" />
+</p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
