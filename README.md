@@ -1,22 +1,36 @@
 # Hi, I'm Eric Frenek Rosales 👋
 
-A passionate **Backend Developer** and **Cloud Systems Engineer** specialized in building scalable serverless architectures, robust APIs, and automated cloud infrastructure. 
+A passionate **Backend Developer** and **Cloud Systems Engineer** specialized in building scalable serverless architectures, robust APIs, and automated cloud infrastructure.
+
+---
+
+### 🌐 Portfolio Website
+You can explore my full interactive work, professional resume, and contact channels directly at:
+👉 **[freneklopez.dev](https://www.freneklopez.dev/)**
 
 ---
 
 ### 🛠️ Core Tech Stack & Ecosystem
 
-* 🔹 **Languages & Backend Tools:** Go | Node.js | PostgreSQL | Docker | GitHub Actions
-* ☁️ **AWS Cloud Architecture:** AWS | AWS Lambda | DynamoDB | Amazon ECS | AWS Cognito
+**Languages & Backend Tools**
+Go | Node.js | TypeScript | Gin Web Framework | PostgreSQL | Docker | Docker Compose | GitHub Actions
+
+**AWS Cloud Architecture**
+AWS CDK v2 | CloudFormation | AWS Lambda | Amazon API Gateway | Amazon DynamoDB | Amazon ECS | AWS Cognito
 
 ---
 
-### 📂 Featured Project
+### 📂 Featured Projects
 
-#### 🚀 [aws-cloud-go](https://github.com)
-A production-ready Infrastructure as Code (IaC) repository built in **Go** to deploy and manage a self-hosted cloud architecture on AWS using **AWS CDK**.
-* **Key Features:** Serverless optimization, automated deployment pipelines, and secure cloud identity management.
-* **Tech Stack:** Go, AWS CDK, AWS Lambda, CloudFormation, DynamoDB.
+#### 🚀 [Forms Nexus Service](https://github.com)
+A high-performance serverless API developed in **Go** that operates as an asynchronous notification router.
+* **Infrastructure:** Deployed via Infrastructure as Code (IaC) using AWS CDK v2.
+* **Services:** Leverages AWS Lambda (ARM64), API Gateway, and DynamoDB, integrating Telegram Bot API and Amazon SES.
+
+#### 📦 [Umami Cloud Go](https://github.com)
+A robust backend REST API built with **Go** and the Gin framework.
+* **Infrastructure:** Fully architected using AWS CloudFormation for reproducible deployments.
+* **Automation:** Features automated CI/CD pipelines via GitHub Actions and application containerization with Docker.
 
 ---
 
@@ -30,5 +44,5 @@ A production-ready Infrastructure as Code (IaC) repository built in **Go** to de
 
 ### 🤝 Connect with me
 
-* 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-* 📧 **Email:** ericfrenekir@gmail.com
+* **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+* **Email:** ericfrenekir@gmail.com
