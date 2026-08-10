@@ -6,26 +6,8 @@ A passionate **Backend Developer** and **Cloud Systems Engineer** specialized in
 
 ### 🛠️ Core Tech Stack & Ecosystem
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Languages & Backend Tools</strong><br/><br/>
-      <img src="https://shields.io" alt="Go" />
-      <img src="https://shields.io" alt="Node.js" />
-      <img src="https://shields.io" alt="PostgreSQL" />
-      <img src="https://shields.io" alt="Docker" />
-      <img src="https://shields.io" alt="GitHub Actions" />
-    </td>
-    <td valign="top" width="50%">
-      <strong>AWS Cloud Architecture</strong><br/><br/>
-      <img src="https://shields.io" alt="AWS" />
-      <img src="https://shields.io" alt="AWS Lambda" />
-      <img src="https://shields.io" alt="DynamoDB" />
-      <img src="https://shields.io" alt="Amazon ECS" />
-      <img src="https://shields.io" alt="AWS Cognito" />
-    </td>
-  </tr>
-</table>
+* 🔹 **Languages & Backend Tools:** Go | Node.js | PostgreSQL | Docker | GitHub Actions
+* ☁️ **AWS Cloud Architecture:** AWS | AWS Lambda | DynamoDB | Amazon ECS | AWS Cognito
 
 ---
 
@@ -48,11 +30,5 @@ A production-ready Infrastructure as Code (IaC) repository built in **Go** to de
 
 ### 🤝 Connect with me
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ericfrenekir@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
+* 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+* 📧 **Email:** ericfrenekir@gmail.com
