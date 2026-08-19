@@ -44,5 +44,5 @@ A robust backend REST API built with **Go** and the Gin framework.
 
 ### 🤝 Connect with me
 
-* **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-* **Email:** ericfrenekir@gmail.com
+* **LinkedIn:** www.linkedin.com/in/eric-frenek-lopez-rosales-650196348
+* **Email:** eric.frenek.lr@gmail.com
